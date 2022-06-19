@@ -1,0 +1,17 @@
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Application.deps.json
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Application.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Application.pdb
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Domain.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Domain.pdb
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.csproj.AssemblyReference.cache
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.AssemblyInfoInputs.cache
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.AssemblyInfo.cs
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.csproj.CopyComplete
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\refint\API_SCHOOL.Application.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\API_SCHOOL.Application.pdb
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\obj\Debug\net6.0\ref\API_SCHOOL.Application.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Models.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Application\bin\Debug\net6.0\API_SCHOOL.Models.pdb

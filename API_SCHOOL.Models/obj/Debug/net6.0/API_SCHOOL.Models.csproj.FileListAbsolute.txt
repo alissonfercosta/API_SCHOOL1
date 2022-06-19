@@ -1,0 +1,12 @@
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\bin\Debug\net6.0\API_SCHOOL.Models.deps.json
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\bin\Debug\net6.0\API_SCHOOL.Models.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\bin\Debug\net6.0\API_SCHOOL.Models.pdb
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.csproj.AssemblyReference.cache
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.AssemblyInfoInputs.cache
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.AssemblyInfo.cs
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\refint\API_SCHOOL.Models.dll
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\API_SCHOOL.Models.pdb
+C:\Users\Alisson\source\repos\API_SCHOOL\API_SCHOOL.Models\obj\Debug\net6.0\ref\API_SCHOOL.Models.dll
